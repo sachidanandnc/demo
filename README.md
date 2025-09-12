@@ -1,3 +1,4 @@
+unix assignment
 this is a linux based snake game
 
 P1 is phase 1
